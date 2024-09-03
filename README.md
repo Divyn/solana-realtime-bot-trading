@@ -1,4 +1,4 @@
-# Get Top Solana Pairs in Realtime
+# Telegram Bot Trading Signals: Solana & Pumpfun
 
 - Bitquery API to get data : https://docs.bitquery.io/docs/category/solana/
 - DEXRabbit to trade: https://dexrabbit.com/
